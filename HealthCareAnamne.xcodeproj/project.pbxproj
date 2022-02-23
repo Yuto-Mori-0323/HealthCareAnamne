@@ -593,10 +593,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = HealthCareAnamne/HealthCareAnamne.entitlements;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = KWS7Z75Z8C;
+				DEVELOPMENT_TEAM = MTBYS7HA48;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HealthCareAnamne/Info.plist;
 				INFOPLIST_KEY_NSHealthShareUsageDescription = "医師に健康情報を伝えるため、Anamneにヘルスケアへのアクセスを許可してください。";
@@ -613,7 +613,7 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.yuto0323.HealthCareAnamne;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "test-provisioning-profile";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
